@@ -1,7 +1,7 @@
 {
   "typescript": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.203Z",
+    "lastGenerated": "2026-04-10T20:25:40.212Z",
     "observationCount": 295,
     "skillCount": 0,
     "domain": "typescript",
@@ -13,8 +13,8 @@
   },
   "project": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.201Z",
-    "observationCount": 842,
+    "lastGenerated": "2026-04-10T20:25:40.209Z",
+    "observationCount": 844,
     "skillCount": 0,
     "domain": "project",
     "triggerGlobs": [
@@ -24,7 +24,7 @@
   },
   "decision": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.205Z",
+    "lastGenerated": "2026-04-10T20:25:40.214Z",
     "observationCount": 0,
     "skillCount": 11,
     "domain": "decision",
@@ -35,7 +35,7 @@
   },
   "javascript": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.204Z",
+    "lastGenerated": "2026-04-10T20:25:40.213Z",
     "observationCount": 8,
     "skillCount": 0,
     "domain": "javascript",
@@ -47,7 +47,7 @@
   },
   "convention": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.204Z",
+    "lastGenerated": "2026-04-10T20:25:40.213Z",
     "observationCount": 0,
     "skillCount": 40,
     "domain": "convention",
@@ -58,7 +58,7 @@
   },
   "typescript-react": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.202Z",
+    "lastGenerated": "2026-04-10T20:25:40.211Z",
     "observationCount": 204,
     "skillCount": 0,
     "domain": "typescript-react",
@@ -69,7 +69,7 @@
   },
   "problem-fix": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.205Z",
+    "lastGenerated": "2026-04-10T20:25:40.214Z",
     "observationCount": 0,
     "skillCount": 4,
     "domain": "problem-fix",
@@ -80,7 +80,7 @@
   },
   "config": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.200Z",
+    "lastGenerated": "2026-04-10T20:25:40.210Z",
     "observationCount": 566,
     "skillCount": 0,
     "domain": "config",
@@ -94,7 +94,7 @@
   },
   "gotcha": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.206Z",
+    "lastGenerated": "2026-04-10T20:25:40.215Z",
     "observationCount": 0,
     "skillCount": 20,
     "domain": "gotcha",
@@ -105,7 +105,7 @@
   },
   "css": {
     "enabled": true,
-    "lastGenerated": "2026-04-10T20:22:28.202Z",
+    "lastGenerated": "2026-04-10T20:25:40.211Z",
     "observationCount": 3,
     "skillCount": 0,
     "domain": "css",
